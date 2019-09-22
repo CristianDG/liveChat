@@ -1,0 +1,26 @@
+{
+    "name": "netlifyio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CristianDG/liveChat.git"
+    },
+    "keywords": [
+        "io"
+    ],
+    "author": "CristianDG",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CristianDG/liveChat/issues"
+    },
+    "homepage": "https://github.com/CristianDG/liveChat#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
