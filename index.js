@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 var http = require('http').createServer(app);
-var port = 80;
+var port = 3000;
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/', function(req, res) {
